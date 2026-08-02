@@ -1,8 +1,28 @@
 aid: vorlon
 name: Vorlon
-description: 'Vorlon is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: apis. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Vorlon is an agentic ecosystem security platform that helps enterprises
+  deploy AI agents and SaaS applications safely by protecting sensitive data in
+  real time. The platform maps and monitors data flows between AI agents,
+  enterprise applications, SaaS platforms, and cloud data stores, detecting
+  threats, masking sensitive data in transit, and restricting agent access.
+  Its patent-pending DataMatrix engine models the SaaS ecosystem — linking
+  alerts, identities, APIs, data flows, and secrets — and a remote MCP server
+  lets LLMs query security data and orchestrate investigations. Vorlon is
+  backed by Accel and is SOC 2 Type II certified.
 url: https://raw.githubusercontent.com/api-evangelist/vorlon/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://vorlon.io/hubfs/Images%20-%202026/Vorlon%20-%20Secure%20your%20agentic%20ecosystem%20OG%20min.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Apis
+- Security
+- SaaS Security
+- AI Agents
+- API Security
+- Identity Security
+- Threat Detection
+- Compliance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +48,36 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/vorlon-domain-security.yml
 - type: Website
-  url: https://vorlonsecurity.com/
+  url: https://vorlon.io/
+- type: Blog
+  url: https://vorlon.io/blog
+- type: Support
+  url: https://support.portal.vorlonsecurity.com/
+- type: TermsOfService
+  url: https://vorlon.io/terms-of-use
+- type: PrivacyPolicy
+  url: https://vorlon.io/privacy-policy
+- type: StatusPage
+  url: https://status.vorlon.io/
+- type: Lifecycle
+  url: lifecycle/vorlon-lifecycle.yml
+- type: TrustCenter
+  url: security/vorlon-trust-center.yml
+- type: Compliance
+  url: https://vorlon.io/trust
+- type: Conformance
+  url: conformance/vorlon-conformance.yml
+- type: MCPServer
+  url: mcp/vorlon-mcp.yml
+- type: LLMsTxt
+  url: llms/vorlon-llms.txt
+- type: WellKnown
+  url: well-known/vorlon-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 7
+  pass: local-v1

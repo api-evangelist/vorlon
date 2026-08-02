@@ -1,0 +1,39 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for the Vorlon web
+  hosts (vorlon.io is the canonical site; vorlonsecurity.com and www.vorlon.io
+  301-redirect to it). Status is the final HTTP code observed after following
+  redirects. Vorlon publishes no /.well-known/ documents; it does publish a
+  real llms.txt (served from /llms.txt, resolving to
+  https://vorlon.io/hubfs/llms.txt), saved verbatim at llms/vorlon-llms.txt.
+hosts:
+  - host: https://vorlon.io
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 200
+        file: ../llms/vorlon-llms.txt
+        note: resolves to https://vorlon.io/hubfs/llms.txt
+  - host: https://vorlonsecurity.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+        note: 301 to https://vorlon.io/.well-known/security.txt which is 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404

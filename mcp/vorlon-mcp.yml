@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+status: published
+source: https://vorlon.io/saas-security-blog/vorlon-mcp-server-and-datamatrix
+server:
+  name: vorlon
+  transport: http
+  url: null
+  access: >-
+    Remote hosted MCP server for Vorlon platform customers. Accessed via a
+    per-tenant URL with a secured token; the endpoint is not publicly
+    published. Announced July 10, 2025 alongside the DataMatrix engine.
+  authentication: token
+  clients: [Claude, ChatGPT, Gemini, other MCP-capable LLM clients]
+description: >-
+  Vorlon ships a remote, plug-and-play MCP (Model Context Protocol) server
+  that lets LLMs query the platform's security data, orchestrate
+  investigations, and return contextual answers about a customer's SaaS + AI
+  agent ecosystem. It is powered by Vorlon's patent-pending DataMatrix engine,
+  which models the SaaS ecosystem by linking every alert, identity, API, data
+  flow, and secret. Documented use cases include cross-referenced alert
+  triage, threat-intel cross-referencing for AI agents accessing files,
+  automated weekly risk reporting, and visibility into traffic between agents
+  and sensitive data. No public tool manifest is published; tools are exposed
+  per customer tenant.
+tools: []
+notes: >-
+  Tool list intentionally empty - Vorlon publishes no public tool manifest and
+  no public OpenAPI to derive candidates from; the server is real (published
+  product capability), so status is published with access details captured.

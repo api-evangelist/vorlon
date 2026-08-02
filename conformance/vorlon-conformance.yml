@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Standards conformance for Vorlon. Vorlon publishes no public API surface
+  (no OpenAPI, no developer docs), so API-level standard conformance
+  (oauth2, oidc, rfc9457, pagination, idempotency) cannot be asserted from a
+  spec. Organizational compliance claims published on the trust pages are
+  recorded below.
+standards:
+  - id: soc2-type-ii
+    conforms: true
+    evidence: 'SOC 2 Type II certification stated on https://vorlon.io/trust and badged on https://vorlon.io/security-compliance'
+  - id: mcp
+    conforms: true
+    evidence: 'Remote Model Context Protocol server for customers, announced at https://vorlon.io/saas-security-blog/vorlon-mcp-server-and-datamatrix (open-standard, works with Claude/ChatGPT/Gemini clients)'
+  - id: oauth2
+    conforms: null
+    evidence: 'Platform initiates OAuth flows toward monitored third-party SaaS apps (connector surface), but no public Vorlon API declares oauth2 securitySchemes to assert against.'

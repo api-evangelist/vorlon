@@ -1,0 +1,207 @@
+# https://vorlon.io/ llms.txt
+
+- [Security Compliance](https://vorlon.io/security-compliance): Security Compliance
+
+- [The Push Notification Heard ‘Round the World: Okta’s Security Breach | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/the-push-notification-heard-round-the-world-oktas-security-breach): Explore Okta's recent security challenges, including breaches and their impact on reputation and market cap. Dive into the ripple effects on companies like 1Password, Cloudflare, and BeyondTrust. Learn valuable lessons and actionable steps to enhance your enterprise Okta security. Stay informed and bolster your cybersecurity in the ever-evolving digital landscape
+
+- [Securing Financial SaaS Ecosystems: Vorlon at FS-ISAC 2025Follow me on my websiteFollow me on LinkedIn](https://vorlon.io/saas-security-blog/vorlon-sponsors-fs-isac-2025): Financial institutions rely on interconnected SaaS applications, but hidden risks in API connections and OAuth tokens expose them to third-party breaches. Vorlon provides real-time detection and response to secure the entire SaaS ecosystem. Meet us at FS-ISAC 2025 to learn more.
+
+- [Gartner Analysis on How SaaS Ecosystem Security Risk Maps to Vorlon’s ApproachFollow me on LinkedIn](https://vorlon.io/saas-security-blog/gartner-saas-ecosystem-security-analysis): Gartner’s latest SaaS security research confirms rising OAuth and AI ecosystem risks and aligns directly with Vorlon’s data-layer behavioral defense model.
+
+- [Behind the Microphone: Insights from Our CISO Series Podcast EpisodeFollow me on LinkedIn](https://vorlon.io/saas-security-blog/behind-the-microphone-insights-from-our-ciso-series-podcast-episode): Explore insights from the latest CISO Series podcast on incident response challenges, third-party API security, and the importance of transparency in effective cybersecurity strategies. 
+
+- [451 Research: Why AI and SaaS Security Are ConvergingFollow me on my websiteFollow me on LinkedIn](https://vorlon.io/saas-security-blog/451-research-ai-saas-security-convergence): 451 Research highlights how AI and SaaS security are converging. Learn why integrations, OAuth, and ecosystem-level risk now define enterprise security.
+
+- [SaaS Security Platform | Vorlon](https://vorlon.io/vorlon-platform): Vorlon is used for third-party API Security to quickly analyze third-party apps, and includes detection, enriched threat intelligence, and remediation. 
+
+- [UK Ministry of Defence: “Third-Parties Are the Weakest Link, Goodbye”Follow me on LinkedIn](https://vorlon.io/saas-security-blog/uk-ministry-of-defence-third-parties-are-the-weakest-link): UK Ministry of Defence reveals a major security breach involving sensitive data of armed forces personnel. Learn how third-party monitoring can help prevent such incidents.
+
+- [Secure Salesforce and Beyond in 2026](https://vorlon.io/resources/secure-salesforce-and-beyond): See how 2025 breaches reshape Salesforce security in 2026. Learn the key risks, new platform protections, and how to secure your entire SaaS ecosystem.
+
+- [Data-Centric SaaS and AI Ecosystem Security With Vorlon](https://vorlon.io/data-centric-saas-security): Secure your SaaS+AI ecosystem with data-centric SaaS security. Stop stolen tokens, shadow AI, and risky data flows in real time with Vorlon.
+
+- [Vorlon Demo - Eliminate Blind Spots Fast](https://vorlon.io/demo): Gain real-time visibility into your SaaS ecosystem with Vorlon. Spot risks, streamline remediation, and manage data flows efficiently—all in one unified platform.
+
+- [Total SaaS + AI Identity Security | Vorlon](https://vorlon.io/total-identity-security): Secure every app, user, non-human identity, integration, and AI agent that touches your sensitive data. Get least-privilege controls and real-time ITDR.
+
+- [S&P Market Intelligence 451 Research on Coverage Initiation: Vorlon envisions AI and SaaS data security convergence](https://vorlon.io/resources/451_research_ai_saas_convergence): 451 Research analyst coverage of Vorlon's platform for unified AI and SaaS data security, mapping sensitive data flows, NHIs, and third-party risk at scale.
+
+- [Deals for a Dollar! Until a Data Breach Comes to Holler | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/deals-for-a-dollar-until-a-data-breach-comes-to-holler): Explore the recent third-party data breach impacting Dollar Tree and Family Dollar, exposing nearly 2 million people to potential identity theft risks. Learn about the breach at Zeroed-In Technologies, the service provider for both retailers, occurring between August 7 and 8, 2023. Uncover the challenges in determining the nature and extent of the compromised data. Discover the proactive measures taken by Zeroed-In, including notifying affected individuals and offering a twelve-month identity protection and credit monitoring service. Understand the wider implications of the breach and potential legal actions. This cautionary tale underscores the risks associated with third-party apps and emphasizes the need for rigorous data security measures and proactive crisis management in today's interconnected business landscape.
+
+- [Unpacking the American Express Third-Party BreachFollow me on LinkedIn](https://vorlon.io/saas-security-blog/unpacking-the-american-express-third-party-breach): Unpack the recent American Express third-party breach incident, learn about the exposed data, American Express's response, and essential tips for cardholders and organizations to enhance security measures.
+
+- [10 Questions to Ask About API ActivityFollow me on LinkedIn](https://vorlon.io/api-security/10-questions-api-activity): Dive into our white paper '10 Questions to Ask About API Activity' to unlock essential insights on monitoring and securing API interactions. Perfect for IT professionals and security teams, this guide offers critical analysis and strategic questions to enhance your API security posture.
+
+- [tj-actions GitHub Attack Exposes SaaS Pipelines, Targets CoinbaseFollow me on LinkedIn](https://vorlon.io/saas-security-blog/tj-actions-github-attack-exposes-saas-pipelines-targets-coinbase): Attackers compromised the tj-actions GitHub Action to steal secrets from 200+ repos. Learn how CI/CD pipelines became a dangerous breach vector.
+
+- [Videos | How Vorlon Detects ShinyHunters OAuth Attacks on Salesforce Customers](https://vorlon.io/videos/video-vorlon-detects-salesforce-oauth-attacks): 
+
+- [Behind the Breach: Unraveling Bank of America's Third-Party Data BreachFollow me on LinkedIn](https://vorlon.io/saas-security-blog/behind-the-breach-unraveling-bank-of-americas-third-party-data-breach): Dive into the details of Bank of America's recent data breach, stemming from a third-party cybersecurity incident. Learn how it impacts customers and steps for safeguarding personal information against future cyber threats.
+
+- [Application Security Assessment: How to Calculate the RiskFollow me on LinkedIn](https://vorlon.io/saas-security-blog/application-security-assessment): A practical guide to application security assessment: risks, steps, tools, and how Vorlon helps with SaaS ecosystem risk scoring.
+
+- [Dick's Sporting Goods Breach - And How Vorlon Can HelpFollow me on LinkedIn](https://vorlon.io/saas-security-blog/dickssportinggoods-breach-and-how-vorlon-can-help-0): Learn how the Dick's Sporting Goods breach occurred and how Vorlon could have prevented it. Discover the importance of securing third-party applications to protect sensitive data.
+
+- [Rapid Response BreachPlaybook - Snowflake](https://vorlon.io/resources/rapid-response-breach-playbook-snowflake): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [Third-Party Threat Hunting and Incident Response](https://vorlon.io/use-cases/third-party-threat-hunting): Identify malicious activity in the third-party apps used by your organization in minutes—not months. Gain near real-time visibility, reduce time to detect and respond.
+
+- [The Blind Spots in SaaS Security: Q&A with Adam Burt Part 3Follow me on my websiteFollow me on LinkedIn](https://vorlon.io/saas-security-posture-management/saas-security-blind-spots): Adam Burt explains why SSPM, SIEM, and NHI tools miss key SaaS threats—and what security teams need for real SaaS ecosystem security.
+
+- [Spin Cycle Security: Rotating CredentialsFollow me on LinkedIn](https://vorlon.io/identity-security/spin-cycle-security-rotating-credentials): Learn how to keep your environment secure with the practice of rotating credentials in our guide 
+
+- [The Missing Context in SaaS and AI Security—Found: ThoughtSpot’s Journey with Vorlon](https://vorlon.io/case-studies/thoughtspot): Learn how ThoughtSpot strengthened its SaaS and AI security posture with Vorlon’s visibility and context-rich platform, accelerating breach impact analysis, managing credentials, and improving security maturity.
+
+- [2025 SaaS Ecosystem Security Best Practices](https://vorlon.io/resources/2025-saas-ecosystem-security-best-practices): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [SaaS Discovery and Visibility | Vorlon](https://vorlon.io/use-cases/third-party-api-visibility): Get visibility into SaaS APIs, risky misconfigurations, connected apps and services, and sensitive data flows.
+
+
+- [The Postman Data Leak - Exposing the Hidden Risks of API DevelopmentFollow me on LinkedIn](https://vorlon.io/saas-security-blog/postman-data-leak-api-development-risks): Discover the hidden risks of API development and third-party app security exposed by the Postman data leak and learn best practices to prevent future breaches.
+
+- [Videos | ThoughtSpot](https://vorlon.io/videos/thoughtspot): 
+
+- [Better Together For All Parties: Salt Security and VorlonFollow me on LinkedIn](https://vorlon.io/saas-security-blog/better-together-salt-and-vorlon): Partnership between Vorlon and Salt Security enhances API security, offering comprehensive protection and visibility, and enabling swift threat detection and remediation for enterprise API ecosystems.
+
+- [The Rise of Automation: Fueling Increased App-to-App Communication | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-posture-management/the-rise-of-automation-fueling-increased-app-to-app-communication): Explore the surge in app-to-app communication driven by digital transformation and cloud computing. Learn the benefits, including increased efficiency and enhanced customer experiences, and uncover challenges such as security and scalability. Gain insights and considerations for navigating the evolving landscape of interconnected applications in the era of automation.
+
+- [Terms of use](https://vorlon.io/terms-of-use): Read the Vorlon Terms of Use here.
+
+- [Capgemini's Data Disaster: When Hackers Turned Consulting into Chaos](https://vorlon.io/saas-security-blog/capgeminis-data-disaster-when-hackers-turned-consulting-into-chaos): Capgemini faces a major data breach as hacker 
+
+- [The Pearson Breach: How It Happened and Lessons LearnedFollow me on LinkedIn](https://vorlon.io/saas-security-blog/pearson-attack-breach): Pearson left a GitLab Personal Access Token in a public .git/config file, like leaving a master key taped to your front door, visible to anyone walking by.
+
+- [Vorlon: The Unified SaaS and AI Security Platform](https://vorlon.io): Vorlon’s agentic ecosystem security platform delivers near real-time visibility, anomaly detection, and incident response across your entire agentic ecosystem—not just individual applications. 
+
+- [SOC Analyst](https://vorlon.io/resources/product-tours/soc-analyst): Learn how SaaS and AI have converged into a single attack surface and what CISOs must do to protect data in motion across their converging SaaS and AI ecosystem.
+
+- [Securing Your APIs in the Evolving Landscape of API TrafficFollow me on LinkedIn](https://vorlon.io/api-security/securing-your-apis-in-the-evolving-landscape-of-api-traffic): APIs (Application Programming Interfaces) have become a vital component of modern technology. However, with their increased adoption, APIs have 
+
+- [Vorlon MCP Server & DataMatrix TechnologyFollow me on LinkedIn](https://vorlon.io/saas-security-blog/vorlon-mcp-server-and-datamatrix): Vorlon's MCP takes security questions and returns answers: who/what was involved, what was accessed, where the risk is, and what to do next.
+
+- [I'm the Bad AI: The Misuse of Generative AI in Cyber Attacks | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/identity-security/im-the-bad-ai-the-misuse-of-generative-ai-in-cyber-attacks): Generative AI poses risks in AI-driven BEC attacks, stolen credentials, and weaponized malware. Counter these threats with training, email verification, and cybersecurity practices. Safeguarding against AI exploitation demands improved ethics, transparency, enhanced cybersecurity, and dedicated countermeasures. Collective efforts are crucial to harness AI's power while mitigating risks.
+
+- [A Short and Sweet Guide to Data Breach Response | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/data-security/a-short-and-sweet-guide-to-data-breach-response): Examining Data Breach Economics: A detailed analysis of the substantial $4.45 million cost and the prolonged 204-day struggle for breach identification and containment. Explore the technical nuances of a robust data breach response plan, covering swift detection, comprehensive investigation, effective containment strategies, and prompt remediation. Gain practical insights into navigating the complex landscape of cyber threats, transforming data breaches into opportunities for technical improvement. Arm yourself with in-depth knowledge to reinforce defenses and mitigate the financial and reputational impact of vulnerabilities in sensitive data.
+
+- [More Than Just A Duo When A Third-Party Breach HitsFollow me on LinkedIn](https://vorlon.io/saas-security-blog/more-than-just-a-duo-when-a-third-party-breach-hits): Cisco Duo faces a significant breach exposing sensitive data through a third-party provider, emphasizing the importance of robust security measures and proactive cybersecurity strategies.
+
+- [Why Third-Party API Risks are the #1 Healthcare Security Concern for 2025](https://vorlon.io/resources/why-third-party-api-risks-are-the-1-healthcare-security-concern-for-2025):  Lessons Learned From the 2024 Breaches Impacting Healthcare Organizations
+
+- [Vorlon for Healthcare Firms](https://vorlon.io/resources/vorlon-for-healthcare-firms): Stop unauthorized PHI access before it spreads.
+
+- [Observable applications | Vorlon](https://vorlon.io/app-directory): Discover supported applications including Salesforce, Google Workspace, and more. Adjust filters to find your desired solutions easily.
+
+- [Optum(ize) Your Security!!!Follow me on LinkedIn](https://vorlon.io/saas-security-blog/optumize-your-security): Explore the financial and reputational risks of cyberattacks in healthcare through the lens of the Optum incident. 
+
+- [Justin Lam’s SSPM Reality Check: Secure the Ecosystem, Not Just the AppFollow me on my websiteFollow me on LinkedIn](https://vorlon.io/saas-security-posture-management/sspm-insights-from-justin-lam-analyst-at-451-research): Justin Lam’s 2-part research series on SaaS Security Posture Management (SSPM) diagnoses the complexity of today’s SaaS risks and how to secure them.
+
+- [API Security: Top Tips, Best Practices, and StrategiesFollow me on LinkedIn](https://vorlon.io/api-security/api-security-best-practices): API security is now central to protecting SaaS data, preventing OAuth and token abuse, and reducing breach risk across interconnected applications.
+
+- [Secure SaaS Configuration | Vorlon](https://vorlon.io/use-cases/vorlon-secure-api-configuration): Detect SaaS policy drift, misconfigurations, and unauthorized changes in near real-time.
+
+- [Press Release: Vorlon Raises Series A from Accel with $15.7 Million Total in Funding for Proactive Third-Party API SecurityFollow me on LinkedIn](https://vorlon.io/saas-security-blog/press-release-vorlon-raises-series-a-from-accel-with-15.7-million-total-in-funding): Vorlon announces Series A led by Accel securing $15.7 million in total funding to enhance third-party API security, addressing critical cybersecurity gaps for enterprises.
+
+- [Vorlon Raises Series A from Accel with $15.7 Million Total in Funding](https://vorlon.io/vorlon-raises-series-a-from-accel-with-15.7-million-total-in-funding): Press Release April 17, 2024 — Vorlon Raises Series A from Accel with $15.7 Million Total in Funding for Proactive Third-Party API Security
+
+- [Vorlon Solution Brief](https://vorlon.io/resources/solution-brief):  SaaS moves fast. Vorlon gives you context to move faster.
+
+- [Salesforce Security Risks and Misconfigurations: Complete Protection Guide](https://vorlon.io/resources/app-directory-salesforce-security-risks): 15 critical Salesforce security risks exposed by 2025 breaches at Google, Coca-Cola, and 700+ orgs. OAuth abuse, integration compromises, and misconfigurations you need to fix now.
+
+- [Vorlon Security - Third-Party API Security](https://vorlon.io/vorlon-platform-1): Vorlon is used for third-party API Security to quickly analyze third-party apps, and includes detection, enriched threat intelligence, and remediation. 
+
+- [Verizon DBIR Reveals Third-Parties Involved in 30% of BreachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/verizon-dbir-reveals-third-party-risk): Verizon DBIR 2025 “found third-party involvement of some sort in 30% of all breaches we analyzed, up from roughly 15% last year.” Double the rate of last year.
+
+- [Avis Car Rental Breach: Looks Like Cars Weren't the Only Thing Avis Was Giving AwayFollow me on LinkedIn](https://vorlon.io/saas-security-blog/avis-car-rental-breach-looks-like-cars-werent-the-only-thing-avis-was-giving-away): Avis Car Rental experienced a significant data breach, exposing 299,006 customers' personal information. Learn how Vorlon could have mitigated this security lapse.
+
+- [The Risks and Benefits of Using Third-Party Apps in Your Business | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/third-party-risk-management/risks-benefits-using-third-party-apps): Explore the pros and cons of integrating third-party apps into your business operations. Discover how these apps can enhance productivity and cut costs, but also learn about the associated risks, including data breaches and compatibility issues. Uncover effective strategies to mitigate these risks and make informed decisions to safeguard your business's security and stability in the dynamic landscape of third-party app usage.
+
+- [More Than Shifting Left: Why Relying Solely on Third-Party Vendors to Get It Right Isn’t a Security SolutionFollow me on LinkedIn](https://vorlon.io/saas-security-blog/more-than-shifting-left-why-relying-solely-on-third-party-vendors-to-get-it-right-isnt-a-security-solution): Learn why relying solely on third-party vendors for security isn't good enough. Discover the importance of proactive third-party API security and how CISOs can lead the charge.
+
+- [Mastering API Token Management: Best Practices for Security and Efficiency | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/api-security/mastering-api-token-management-best-practices-for-security-and-efficiency): Explore the crucial aspects of API token management in this technical blog. Learn the best practices for secure storage, robust authentication, regular rotation, vigilant monitoring, secure transmission, and strong revocation processes. Discover how effective API token management ensures top-tier security and operational efficiency in modern application ecosystems.
+
+- [Vorlon at RSA 2025: SaaS Ecosystem Detection & ResponseFollow me on my websiteFollow me on LinkedIn](https://vorlon.io/saas-security-blog/meet-vorlon-at-rsa-2025/): Join Vorlon at RSA 2025 in the Startup Expo Hall to learn how to secure your SaaS ecosystem.
+
+- [Sumo Logic's Guest List Gets a Surprise: An Uninvited Third-Party Crasher | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/sumo-logics-guest-list-gets-a-surprise-an-uninvited-third-party-crasher): Explore the Sumo Logic breach, unraveling the details of a third-party intrusion into their cloud-based log management. Learn how Sumo Logic responded, secured their system, and initiated a credential refresh. Delve into the challenges of rotating API keys and discover best practices for fortifying your organization against breaches. Gain insights into maintaining a secure environment and fostering a culture of cybersecurity awareness. Stay informed and stylish in the ever-evolving world of digital security.
+
+- [Identity Security](https://vorlon.io/identity-security): Identity Security
+
+- [What the Salesloft Drift breaches reveal about 4th-party riskFollow me on LinkedIn](https://vorlon.io/saas-security-blog/the-salesloft-drift-breaches-and-4th-party-risk): Your vendors' vendors are a SaaS security risk. The SalesLoft-Drift incidents revealed how 4th-party and infinite-party risks threaten your organization.
+
+- [Commvault Metallic Microsoft 365 Breach & What to Do NextFollow me on LinkedIn](https://vorlon.io/saas-security-blog/commvault-metallic-microsoft-365-attack-breach): An attack on Commvault’s Metallic backup platform exploited a zero-day vulnerability in the web server to gain unauthorized access to client secrets.
+
+- [Vulnerabilities Gonna Vulnerability—And Third-Party Risk Won’t Manage ItselfFollow me on LinkedIn](https://vorlon.io/saas-security-blog/vulnerabilities-gonna-vulnerability): New vulnerabilities are inevitable. The problem is knowing when they’re being exploited and whether they impact your SaaS ecosystem before it’s too late.
+
+
+- [Coffee at Rest, Coffee in MotionFollow me on LinkedIn](https://vorlon.io/saas-security-blog/coffee-at-rest-coffee-in-motion): Dive into the world of data security with a fun coffee analogy! Discover how to protect 'Data at Rest' and 'Data in Motion', understanding their unique challenges and effective security strategies.
+
+- [Privacy Policy](https://vorlon.io/privacy-policy): Read the Vorlon Privacy Policy here.
+
+- [HealthEC's Not-So-EZ Data BreachFollow me on LinkedIn](https://vorlon.io/saas-security-blog/healthecs-not-so-ez-data-breach): Explore our detailed breakdown of the HealthEC data breach that impacted 4.5 million individuals. Understand how it happened, the types of data compromised, and steps for protection.
+
+- [Cloudy With a Chance of BreachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/cloudy-with-a-chance-of-breaches): Dive into the Cloudflare breach saga: An intricate cyber incident unraveling how a suspected nation-state attacker infiltrated Cloudflare's internal systems. Learn the importance of diligent API monitoring, credential rotation, and cybersecurity vigilance in safeguarding digital fortresses against sophisticated threats.
+
+- [The Dawn of Midnight BlizzardFollow me on LinkedIn](https://vorlon.io/saas-security-blog/the-dawn-of-midnight-blizzard): Discover the shocking breach by Russian group Midnight Blizzard at Microsoft, leading to ongoing security threats. Learn how to protect your data and systems in the aftermath.
+
+- [BeyondTrust Breach: Implications for U.S. Treasury and beyondFollow me on LinkedIn](https://vorlon.io/saas-security-blog/beyondtrust-breach-us-treasury): BeyondTrust, a leading provider of privileged access management solutions, recently disclosed a security incident involving its Remote Support SaaS instances.
+
+
+- [What Is AI Security Posture Management (AI SPM)? Intro GuideFollow me on LinkedIn](https://vorlon.io/ai-security/ai-security-posture-management): Intro guide to AI Security Posture Management (AI-SPM): threats, benefits, best practices, and how Vorlon unifies SaaS + AI security.
+
+- [Why AI and SaaS Are Now the Same Attack Surface and How to Close Your Security Gaps](https://vorlon.io/events/why-ai-and-saas): 
+
+- [Videos | Dutchie](https://vorlon.io/videos/dutchie): 
+
+- [Vorlon Bite Sized Breach Blog: Dropbox SignFollow me on LinkedIn](https://vorlon.io/saas-security-blog/vorlon-bite-sized-breach-blog-dropbox-sign): Discover how DropBox's recent security breach impacted its eSignature platform and how Vorlon customers can detect and investigate potential threats in near real-time.
+
+- [Agentic AI Security: New Threats and Best PracticesFollow me on LinkedIn](https://vorlon.io/ai-security/agentic-ai-security): Agentic AI is a form of AI that is designed to act autonomously, interpret data, make decisions, and learn from its experiences.
+
+
+- [Why AI Tools Must Be Unified Under a Single SaaS Ecosystem Security Platform](https://vorlon.io/resources/unifying-saas-and-ai-security): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [What Is Third-Party Risk Management? A Comprehensive GuideFollow me on LinkedIn](https://vorlon.io/third-party-risk-management/what-is-third-party-risk-management): TPRM enables businesses to identify and manage risks associated with third-party vendors, suppliers, contractors, and partners.
+
+- [Rhysida Ransomware: A Sinister Crawl from the Undergrowth | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/rhysida-ransomware-a-sinister-crawl-from-the-undergrowth): Uncover the world of Rhysida ransomware in our latest blog post. Learn about its emergence as a ransomware-as-a-service (RaaS) group, its notable victims, and the cunning tactics it employs to infiltrate organizations. Dive into the evolving nature of Rhysida, its threats, and explore effective strategies to safeguard your systems against this growing cyber menace.
+
+- [Oracle Health Breach: What Security Teams Need to KnowFollow me on LinkedIn](https://vorlon.io/saas-security-blog/oracle-health-breach): Oracle Health breach exposes patient data through legacy systems. Learn what happened and how to secure your SaaS ecosystem. 
+
+
+- [SANS First Look: Third-Party API Security with Vorlon](https://vorlon.io/resources/sans-first-look): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [GitHub Monitoring](https://vorlon.io/resources/product-tours/github-monitoring): Learn how SaaS and AI have converged into a single attack surface and what CISOs must do to protect data in motion across their converging SaaS and AI ecosystem.
+
+- [Betting Against the House: MGM's Unlucky Cyber Streak | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/betting-against-the-house-mgms-unlucky-cyber-streak): Examine the MGM Resorts Cyberattack: An in-depth analysis of the September 2023 cyber incident that disrupted Las Vegas. Explore the technical aspects, including the Okta exploit and ransomware attacks carried out by the Scattered Spider group. Understand the implications and fallout for MGM Resorts and Caesars Entertainment, shedding light on the costs and lessons learned from this cybersecurity event.
+
+- [Security Compliance Report Form](https://vorlon.io/security-compliance-report-form): Please complete the form below to request a copy of Vorlon's Security Compliance Reports. Note that while we endeavor to fulfill legitimate requests, 
+
+- [Guide for Managing Employee Exits and SaaS Data Access](https://vorlon.io/resources/employee-exits-saas-data-access-wp): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [Under the Hood: Examining Toyota’s Recent Data BreachFollow me on LinkedIn](https://vorlon.io/saas-security-blog/under-the-hood-examining-toyotas-recent-data-breach): Delve into the details of Toyota's recent data breach and uncover the implications in this insightful blog post. 
+
+- [Resources - Guides, Research, Security Insights | Vorlon](https://vorlon.io/whitepapers): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [MCP Security: New Risks and Best Practices to Protect YourselfFollow me on LinkedIn](https://vorlon.io/ai-security/mcp-security): MCP, launched by Anthropic in Nov 2024, simplifies how LLMs connect to external data sources, tools, and systems for seamless integration.
+
+- [CDK Global's Breach - And How Vorlon Can HelpFollow me on LinkedIn](https://vorlon.io/saas-security-blog/cdk-globals-breach-and-how-vorlon-can-help): CDK Global faced a major breach by BlackSuit ransomware group, causing operational delays and financial losses. Discover how Vorlon could have helped prevent this cyber attack.
+
+- [ShinyHunters Exploits Salesforce, Detection and Response TipsFollow me on LinkedIn](https://vorlon.io/saas-security-blog/shinyhunters-salesforce-response-tips): A coordinated cybercrime campaign led by ShinyHunters (threat group UNC6240) targeted major brands using Salesforce. Here's how to protect yourself.
+
+- [You Say Goodbye, and I Say TrelloFollow me on LinkedIn](https://vorlon.io/saas-security-blog/you-say-goodbye-and-i-say-trello): Explore the details of the Trello data breach in our latest article, 'You Say Goodbye, and I Say Trello.' Discover how exposed APIs led to the linking of private emails with public profiles, raising significant cybersecurity concerns and paving the way for potential phishing attacks. 
+
+- [Data Breaches Unveiled: Valuable Lessons for a Secure Future | Vorlon Blog: Bite sized breachesFollow me on LinkedIn](https://vorlon.io/saas-security-blog/data-breaches-unveiled-valuable-lessons): Explore recent data breaches impacting large organizations and the valuable lessons learned. Delve into incidents involving Uber, Slack, Github, Atlassian, T-Mobile, Mailchimp, and Lowe's, highlighting the importance of vigilance in third-party integrations, strengthening authentication and access controls, timely incident response, and educating employees on security awareness. Learn key strategies to mitigate vulnerabilities, enhance security protocols, and foster a culture of privacy within organizations. Gain insights to proactively address evolving cybersecurity challenges and safeguard sensitive data.
+
+- [What Is Data Security? Top Risks, Threats & Best PracticesFollow me on LinkedIn](https://vorlon.io/data-security/what-is-data-security): Data security is the process of protecting digital data (like databases, files, or websites) from unauthorized access, corruption, or theft.
+
+- [Salesforce Shield vs. Ecosystem Security: Where Platform Protection EndsFollow me on LinkedIn](https://vorlon.io/saas-security-blog/salesforce-shield-vs-ecosystem-security): Salesforce Shield secures the platform. But what about everything connected to it? Learn where Shield’s visibility ends and how Vorlon closes the gap across your Salesforce ecosystem.
+
+- [What Do Third-Party Apps and Holiday Gifts Have in Common?Follow me on LinkedIn](https://vorlon.io/third-party-risk-management/what-do-third-party-apps-and-holiday-gifts-have-in-common): On the surface, Third-Party Apps and holiday gifts may not seem to have a lot in common. Gifts, like third-party apps, come in all shapes and sizes.
+
+- [What Is Identity Security? - Protecting Digital AccessFollow me on LinkedIn](https://vorlon.io/identity-security/identity-security-complete-guide): Identity security protects users, devices, and workloads by continuously verifying trust, enforcing least privilege, and enabling Zero Trust access.
+
+- [Supply Chain Security](https://vorlon.io/use-cases/supply-chain-security): Monitor the third-parties in your supply chain, analyze and profile them, and ensure vendor compliance with continuous risk monitoring.
+
+- [Resources - Guides, Research, Security Insights | Vorlon](https://vorlon.io/case-studies): Access Vorlon's full library of SaaS and AI security resources — whitepapers, analyst reports, case studies, and product guides for enterprise security teams.
+
+- [Vorlon Blog](https://vorlon.io/blog): Read the latest on Vorlon in our company blog. Discover important insights on recent data breaches and third-party threats.
+
+- [CISO Series](https://vorlon.io/cisoseries): Take control of your company's data with Vorlon. Gain insights, reduce complexity, and protect against third-party security incidents. Get 3-months free.
+

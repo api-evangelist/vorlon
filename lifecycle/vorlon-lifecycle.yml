@@ -1,0 +1,14 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.vorlon.io/
+versioning: null
+deprecation: null
+sla: null
+status_page: https://status.vorlon.io/
+notes: >-
+  Vorlon operates a live public status page at status.vorlon.io (UptimeRobot-
+  powered, HTTP 200, uptime/downtime monitors for the platform). No public API
+  versioning policy, deprecation policy, or SLA is published - Vorlon exposes
+  no public developer API surface; the platform is accessed via the app and a
+  customer-scoped remote MCP server (see mcp/vorlon-mcp.yml).
+deprecated_operations: []

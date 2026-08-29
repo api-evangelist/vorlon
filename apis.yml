@@ -11,6 +11,17 @@ description: >-
   lets LLMs query security data and orchestrate investigations. Vorlon is
   backed by Accel and is SOC 2 Type II certified.
 url: https://raw.githubusercontent.com/api-evangelist/vorlon/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
